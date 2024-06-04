@@ -15,3 +15,5 @@ the clone readme
 112233
 
 hot-fix
+
+in vscode
